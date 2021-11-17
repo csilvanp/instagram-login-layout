@@ -1,7 +1,7 @@
 # Instagram Login Layout
 This is a clone of the Instagram login screen, using HTML and CSS.
 Made for praticing responsiveness.
-<br>http://cauasilva.me/instagram-login-layout/
+<br>http://csilvanp.github.io/instagram-login-layout/
 
 ## Screenshot in Desktop (min. width = 1024px)
 ![Screenshot in Desktop](./img/screenshots/desktop-screen.png)
